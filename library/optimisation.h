@@ -84,7 +84,7 @@ array side1_slope_plateau_xLog(array xAxis, double slope1, double x_ratio_slope_
 	}
 	return C;
 }
-//tenho de dar o valor de R200 se nao esta merda nao funciona!!!
+//tenho de dar o valor de R200 se nao isto nao funciona!!!
 //init_conditions[2] = .5*(.8-init_conditions[0]*log10(.01*.001));	//position x0_1
 //	init_conditions[3] = .5*(-.8-init_conditions[1]*log10(10.*1.));//* 1.e3*1.8e3*onePcMtr);	//position x0_2
 
